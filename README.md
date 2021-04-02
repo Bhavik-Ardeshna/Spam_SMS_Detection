@@ -9,8 +9,6 @@ In this repo i have created a SMS Spam Prediction project in machine learning us
 # Technology used in Project :hotsprings:
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">  <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/seaborn.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/python_nltk.png" width="150">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">
 
-## Bug / Feature Request :man_technologist:
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/SPAM-SMS-Prediction/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/SPAM-SMS-Prediction/issues/new). Please include sample queries and their corresponding results.
+
 
